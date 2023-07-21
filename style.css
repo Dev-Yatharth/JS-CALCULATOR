@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(100deg, #ffafbd , #ffc3a0);
+}
+.row{
+    text-align: center;
+    opacity: 0.7;
+    top: 100px;
+    position: relative;
+    margin: 5px;
+}
+.input{
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    border: 2px solid black;
+}
+.b{
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.be{
+    width: 200px;
+    height: 70px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.main{
+    color: whitesmoke;
+    -webkit-text-stroke: 1px black;
+    text-align: center;
+    top: 50px;
+    position: relative;
+    font-size: 50px;
+}
+.url{
+    font-size: 20px;
+    bottom: -150px;
+    position: relative;
+}
